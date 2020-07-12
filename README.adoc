@@ -1,0 +1,53 @@
+= Hi there! I'm François Violette 👋
+
+Passionate about content modelling, knowledge, data.
+
+Obsessed by processes, automation, and cross-team collaboration.
+
+Music enthusiast and concertgoer.
+
+== What I am best at, what motivates me
+
+*_Systemic approach_*
+++++
+<img align="left" src="assets/systemic_approach.svg" height="110"/>
+<p>I'm happy to have a wide range of experiences in structured, tech content for 10+ years.</p>
+<p>As a Knowledge Architect, I bring clarity out of various content and data <i>shapes</i>.</p>
+<p>Most recent gigs in Content Design and Semantics have only multiplied my excitement.</p>
+++++
+
+*_Transmission_*
+
+++++
+<img align="left" src="assets/transmission.svg" height="110"/>
+<p>Since 2020, I teach Ergonomics applied to Content Design at the University of Paris.</p>
+<p>Dusting off a course that I once attended, and meeting with professionals in becoming.</p>
+<p>Taking advantage of this opportunity to experience my value in the discipline.</p>
+++++
+
+*_Self-development_*
+++++
+<img align="left" src="assets/self_development.svg" height="110"/>
+<p>Acknowledging unique qualities in gifted people who surround and inspire me.</p>
+<p>I take practical steps to improve on a daily basis, be more focused, and more purposeful.</p>
+<p>Self-adjustment and self-organization help me have long-lasting impact.</p>
+++++
+
+== Tools and technologies I use on a regular basis
+
+image:https://avatars.githubusercontent.com/u/3137042?s=200&v=4.png[48,48, "AsciiDoc", link="https://github.com/asciidoctor"]
+image:https://avatars3.githubusercontent.com/u/16343502?v=3&s=200[48,48, "OpenAPI", link="https://github.com/OAI/OpenAPI-Specification"]
+image:https://avatars.githubusercontent.com/u/5155369?s=200&v=4[48,48, "Figma", link="https://github.com/figma"]
+image:https://triplydb.com/imgs/avatars/d/5b9f3fac5cce65029ba1366e.png?v=4[48,48, "SHACL", link="https://www.w3.org/TR/shacl/"]
+image:https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png?v=4[48,48, "Python", link="https://github.com/python"]
+image:https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png?v=4[48,48, "JavaScript", link="https://developer.mozilla.org/en-US/docs/Web/JavaScript"]
+
+image:https://pbs.twimg.com/profile_images/1091095211378233345/QKOjpAXJ.jpg[48,48, "Protégé", link="https://github.com/protegeproject"]
+image:https://yt3.ggpht.com/ytc/AKedOLTr4yTY8VjSRGGPqVtxMxVVEzlwYY1kG9lnpouM=s900-c-k-c0x00ffffff-no-rj[48,48, "PoolParty", link="https://www.poolparty.biz/"]
+image:https://pbs.twimg.com/profile_images/979906135724445697/_CSELdtb_400x400.jpg[48,48, "Antora", link="https://gitlab.com/antora"]
+image:https://pbs.twimg.com/profile_images/1173918108664377344/-DQQ6Bsw_400x400.png[48,48, "Kontent.ai", link="https://kontent.ai/"]
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png[48,48, "VSCode", link="https://github.com/microsoft/vscode"]
+image:https://docs.errata.ai/img/logo.svg[48,48, "Vale", link="https://github.com/errata-ai"]
+
+
+
