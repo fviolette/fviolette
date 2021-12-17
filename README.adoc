@@ -11,9 +11,9 @@ Music enthusiast and concertgoer.
 *_Systemic approach_*
 ++++
 <img align="left" src="assets/systemic_approach.svg" height="110"/>
-<p>I'm happy to have a wide range of experiences in structured, tech content for 10+ years.</p>
+<p>I have a wide range of experiences in structured, tech content for 10+ years.</p>
 <p>As a Knowledge Architect, I bring clarity out of various content and data <i>shapes</i>.</p>
-<p>Most recent gigs in Content Design and Semantics have only multiplied my excitement.</p>
+<p>Recent gigs in Content Design and Semantics have only multiplied my excitement.</p>
 ++++
 
 *_Transmission_*
@@ -22,7 +22,7 @@ Music enthusiast and concertgoer.
 <img align="left" src="assets/transmission.svg" height="110"/>
 <p>Since 2020, I teach Ergonomics applied to Content Design at the University of Paris.</p>
 <p>Dusting off a course that I once attended, and meeting with professionals in becoming.</p>
-<p>Taking advantage of this opportunity to experience my value in the discipline.</p>
+<p>I take advantage of this opportunity to experience sharpen my interpersonal skills.</p>
 ++++
 
 *_Self-development_*
