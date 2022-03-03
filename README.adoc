@@ -22,7 +22,7 @@ Music enthusiast and concertgoer.
 <img align="left" src="assets/transmission.svg" height="110"/>
 <p>Since 2020, I teach Ergonomics applied to Content Design at the University of Paris.</p>
 <p>Dusting off a course that I once attended, and meeting with professionals in becoming.</p>
-<p>I take advantage of this opportunity to experience sharpen my interpersonal skills.</p>
+<p>I take advantage of this opportunity to sharpen my interpersonal skills.</p>
 ++++
 
 *_Self-development_*
