@@ -1,34 +1,32 @@
 = Hi there! I'm François Violette 👋
 
-Passionate about content modelling, knowledge, data.
+Passionate about content modeling, engineering, and knowledge.
 
-Obsessed by processes, automation, and cross-team collaboration.
-
-Music enthusiast and concertgoer.
+I have a wide range of experiences in structured, tech content for 10+ years.
 
 == What I am best at, what motivates me
 
 *_Systemic approach_*
 ++++
 <img align="left" src="assets/systemic_approach.svg" height="110"/>
-<p>I have a wide range of experiences in structured, tech content for 10+ years.</p>
-<p>As a Knowledge Architect, I bring clarity out of various content and data <i>shapes</i>.</p>
-<p>Recent gigs in Content Design and Semantics have only multiplied my excitement.</p>
+<p>As a Knowledge Architect, I bring clarity out of various content and content and data shapes.</p>
+<p>I seize opportunities found in mixing structured, semi-strucutred, unstructured content.</p>
+<p>From Semantics to Content Design, with multiple audiences and delivery channels, I tackle challenges holistically.</p>
 ++++
 
 *_Transmission_*
 
 ++++
 <img align="left" src="assets/transmission.svg" height="110"/>
-<p>Since 2020, I teach Ergonomics applied to Content Design at the University of Paris.</p>
-<p>Dusting off a course that I once attended, and meeting with professionals in becoming.</p>
-<p>I take advantage of this opportunity to sharpen my interpersonal skills.</p>
+<p>Since 2020, I am a lecturer in Content Design at the University of Paris Cité.</p>
+<p>I also enjoy speaking at organizing community events such as Write The Docs.</p>
+<p>Switching contexts help me stay grounded and sharpen my interpersonal skills.</p>
 ++++
 
 *_Self-development_*
 ++++
 <img align="left" src="assets/self_development.svg" height="110"/>
-<p>Acknowledging unique qualities in gifted people who surround and inspire me.</p>
+<p>I am continuously looking to mentor and be mentored, acknowledging unique qualities in individuals.</p>
 <p>I take practical steps to improve on a daily basis, be more focused, and more purposeful.</p>
 <p>Self-adjustment and self-organization help me have long-lasting impact.</p>
 ++++
