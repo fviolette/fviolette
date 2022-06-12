@@ -4,6 +4,8 @@ Passionate about content modeling, engineering, and knowledge.
 
 I have a wide range of experiences in structured, tech content for 10+ years.
 
+Reach me on: https://twitter.com/fr_violette[Twitter] | https://www.linkedin.com/in/francoisviolette/[LinkedIn] | https://www.writethedocs.org/slack/[Write the Docs Slack]
+
 == What I am best at, what motivates me
 
 *_Systemic approach_*
@@ -11,7 +13,7 @@ I have a wide range of experiences in structured, tech content for 10+ years.
 <img align="left" src="assets/systemic_approach.svg" height="110"/>
 <p>As a Knowledge Architect, I bring clarity out of various content and content and data shapes.</p>
 <p>I seize opportunities found in mixing structured, semi-strucutred, unstructured content.</p>
-<p>From Semantics to Content Design, with multiple audiences and delivery channels, I tackle challenges holistically.</p>
+<p>From Semantics to Product Design, with multiple audiences and delivery channels, I tackle challenges holistically.</p>
 ++++
 
 *_Transmission_*
