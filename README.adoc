@@ -13,7 +13,7 @@ Reach me on: https://twitter.com/fr_violette[Twitter] | https://www.linkedin.com
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/systemic_approach_light.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/systemic_approach_dark.svg">
-  <img alt="Systemic approach soft skill icon" src="assets/systemic_approach_light.svg" height="110">
+  <img align="left" alt="Systemic approach soft skill icon" height="110" src="assets/systemic_approach_light.svg">
 </picture>
 <p>As a Knowledge Architect, I bring clarity out of various content and content and data shapes.</p>
 <p>I seize opportunities found in mixing structured, semi-strucutred, unstructured content.</p>
@@ -26,7 +26,7 @@ Reach me on: https://twitter.com/fr_violette[Twitter] | https://www.linkedin.com
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/transmission_light.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/transmission_dark.svg">
-  <img alt="Tranmission soft skill icon" src="assets/transmission_light.svg" height="110">
+  <img align="left" alt="Tranmission soft skill icon" height="110" src="assets/transmission_light.svg">
 </picture>
 <p>Since 2020, I am a lecturer in Content Design at the University of Paris Cité.</p>
 <p>I also enjoy speaking at organizing community events such as Write The Docs.</p>
@@ -38,7 +38,7 @@ Reach me on: https://twitter.com/fr_violette[Twitter] | https://www.linkedin.com
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/self_development_light.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/self_development_dark.svg">
-  <img alt="Self-development soft skill icon" src="assets/self_development_light.svg" height="110">
+  <img align="left" alt="Self-development soft skill icon" height="110" src="assets/self_development_light.svg">
 </picture>
 <p>I am continuously looking to mentor and be mentored, acknowledging unique qualities in individuals.</p>
 <p>I take practical steps to improve on a daily basis, be more focused, and more purposeful.</p>
