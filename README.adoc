@@ -47,19 +47,19 @@ Reach me on: https://twitter.com/fr_violette[Twitter] | https://www.linkedin.com
 
 == Tools and technologies I use on a regular basis
 
-image:https://avatars.githubusercontent.com/u/3137042?s=200&v=4.png[48,48, "AsciiDoc", link="https://github.com/asciidoctor"]
+image:https://avatars.githubusercontent.com/u/44914786[48,48, "Astro", link="https://astro.build/"]
 image:https://avatars3.githubusercontent.com/u/16343502?v=3&s=200[48,48, "OpenAPI", link="https://github.com/OAI/OpenAPI-Specification"]
-image:https://avatars.githubusercontent.com/u/5155369?s=200&v=4[48,48, "Figma", link="https://github.com/figma"]
-image:https://triplydb.com/imgs/avatars/d/5b9f3fac5cce65029ba1366e.png?v=4[48,48, "SHACL", link="https://www.w3.org/TR/shacl/"]
+image:https://avatars.githubusercontent.com/u/3137042?s=200&v=4.png[48,48, "AsciiDoc", link="https://github.com/asciidoctor"]
+image:https://pbs.twimg.com/profile_images/979906135724445697/_CSELdtb_400x400.jpg[48,48, "Antora", link="https://gitlab.com/antora"]
 image:https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png?v=4[48,48, "Python", link="https://github.com/python"]
 image:https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png?v=4[48,48, "JavaScript", link="https://developer.mozilla.org/en-US/docs/Web/JavaScript"]
-
-image:https://pbs.twimg.com/profile_images/979906135724445697/_CSELdtb_400x400.jpg[48,48, "Antora", link="https://gitlab.com/antora"]
-image:https://yt3.ggpht.com/ytc/AKedOLTr4yTY8VjSRGGPqVtxMxVVEzlwYY1kG9lnpouM=s900-c-k-c0x00ffffff-no-rj[48,48, "PoolParty", link="https://www.poolparty.biz/"]
-image:https://www.notion.so/cdn-cgi/image/format=auto,width=256,quality=100/front-static/shared/icons/notion-app-icon-3d.png[48,48, "Notion", link="https://www.notion.so"]
-image:https://pbs.twimg.com/profile_images/1173918108664377344/-DQQ6Bsw_400x400.png[48,48, "Kontent.ai", link="https://kontent.ai/"]
-image:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png[48,48, "VSCode", link="https://github.com/microsoft/vscode"]
 image:https://avatars.githubusercontent.com/u/32996943[48,48, "Vale", link="https://github.com/errata-ai"]
 
-
+image:https://avatars.githubusercontent.com/u/5155369?s=200&v=4[48,48, "Figma", link="https://github.com/figma"]
+image:https://avatars.githubusercontent.com/u/17648725?s=200&v=4[48,48, "Dovetail", link="https://dovetail.com/"]
+image:https://avatars.githubusercontent.com/u/1754602[48,48, "Contentsquare", link="https://contentsquare.com"]
+image:https://triplydb.com/imgs/avatars/d/5b9f3fac5cce65029ba1366e.png?v=4[48,48, "SHACL", link="https://www.w3.org/TR/shacl/"]
+image:https://yt3.ggpht.com/ytc/AKedOLTr4yTY8VjSRGGPqVtxMxVVEzlwYY1kG9lnpouM=s900-c-k-c0x00ffffff-no-rj[48,48, "PoolParty", link="https://www.poolparty.biz/"]
+image:https://avatars.githubusercontent.com/u/17177659?s=48&v=4[48,48, "Sanity", link="https://www.sanity.io/"]
+image:https://www.notion.so/cdn-cgi/image/format=auto,width=256,quality=100/front-static/shared/icons/notion-app-icon-3d.png[48,48, "Notion", link="https://www.notion.so"]
 
